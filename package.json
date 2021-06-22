@@ -1,0 +1,6 @@
+{
+  "name": "purescript-smolder",
+  "devDependencies": {
+    "spago": "^0.20.3"
+  }
+}
